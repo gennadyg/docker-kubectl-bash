@@ -1,1 +1,1 @@
-# Just alpine + kubectl + bash 
+# Just image with alpine + kubectl + bash 
