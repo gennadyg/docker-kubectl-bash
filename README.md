@@ -1,1 +1,1 @@
-# docker-kubectl-bash
+# Just alpine + kubectl + bash 
